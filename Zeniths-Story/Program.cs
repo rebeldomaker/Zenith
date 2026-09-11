@@ -13,16 +13,14 @@ class ZenithStory
     {
         Console.WriteLine("""
         ╔════════════════════════════════════════════════════════════╗
-        ║        ZENITH THE NUMBAT - A PAST MEMORY                  ║
+        ║        ZENITH THE NUMBAT - A PREQUEL                       ║
         ║                                                            ║
-        ║  An interactive story by Hydri-ibn                        ║
-        ║  Created in C# for learning purposes in 2025              ║
+        ║  An interactive story                                      ║
+        ║  Created in C#, 2026                                       ║
         ╚════════════════════════════════════════════════════════════╝
         """);
 
-        Console.WriteLine("In this story, you control a pivotal moment from Zenith's past.");
-        Console.WriteLine("A young numbat, once a leader, now broken and lost.");
-        Console.WriteLine("\nWarning: This story contains mature themes.");
+        Console.WriteLine("In this story, you control a pivotal moment from Zenith's past.\nA young numbat, once a leader, now broken and lost.\nWarning: This story contains mature themes.");
         Console.WriteLine("Press Enter to begin...");
         Console.ReadLine();
 
